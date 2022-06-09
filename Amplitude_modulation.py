@@ -1,3 +1,4 @@
+#Under modulation, critical modulation, over modulation
 import numpy as np
 import matplotlib.pyplot as plt
 from math import pi as p
